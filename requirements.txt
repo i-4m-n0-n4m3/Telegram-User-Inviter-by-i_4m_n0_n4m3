@@ -1,0 +1,4 @@
+###### Requirements ######
+pysocks
+telethon
+termcolor

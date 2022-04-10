@@ -1,0 +1,14 @@
+{
+    "clients": [
+        {
+            "session_name": "<THE_SESSION_NAME>"
+        }
+    ],
+    "API": {
+        "API_ID": "<GET_API_ID_FROM_TELEGRAM>",
+        "API_HASH": "<GET_API_HASH_FROM_TELEGRAM>"
+    },
+    "group": {
+        "group_id_to_invite": 0
+    }
+}

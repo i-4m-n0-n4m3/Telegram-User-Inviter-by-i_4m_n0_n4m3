@@ -1,0 +1,9 @@
+.vscode
+*.session*
+*.jpg
+*.json
+!.devcontainer/*.json
+*.spec
+build
+__pycache__
+dist
